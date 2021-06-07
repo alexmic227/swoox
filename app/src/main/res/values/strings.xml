@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Swoox</string>
+    <string name="getStartedBtn">Button</string>
 </resources>
